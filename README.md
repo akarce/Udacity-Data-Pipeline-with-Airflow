@@ -40,6 +40,15 @@ Udacity Data Engineering Nanodegree Program, Data Pipeline with Airflow project 
 ![alt text](img/erd2.png)
 
 # How to Run
+
+## Clone the project repository
+
+`$ git clone https://github.com/akarce/Udacity-Data-Pipeline-with-Airflow`
+
+### Change directory
+
+`$ cd Udacity-Data-Pipeline-with-Airflow`
+
 ## Build the docker images and start airflow:
 
 `$ docker-compose up airflow-init `
