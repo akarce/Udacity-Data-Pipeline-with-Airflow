@@ -3,6 +3,8 @@ Udacity Data Engineering Nanodegree Program, Data Pipeline with Airflow project 
 
 
 ## Project Structure:
+![alt text](udacity_overview.jpg)
+
 
 + dags: Directory containing Airflow DAG scripts.
     + create_tables_and_buckets.py: DAG for creating tables on PostgreSQL and buckets on MinIO.
